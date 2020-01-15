@@ -6,7 +6,7 @@ The goal is to explore the distribution of different protein classes (tab1), the
 
 The visualization is designed to respect the visualization guidelines taught in the 2018/2019 course "Visualization" at the University of Copenhagen, such as Munzner's guide for visualization analysis and design frameworks.
 
-For further information, read the pdf in this repository.
+For further information, see "Final_project.pdf" in this repository.
 
 <br>
 View the visualization under: <br>
